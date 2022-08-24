@@ -1,4 +1,4 @@
-"# Notepad" 
+# Notepad
 
 A Notepad built using python and Tkinter.
 
